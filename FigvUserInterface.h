@@ -8,6 +8,7 @@
 #define FIGV_PRUEBA_1_IMGUI_FIGVUSERINTERFACE_H
 
 #include <GLFW/glfw3.h>
+#include "lib/ImGuiFileDialog/ImGuiFileDialog.h"
 
 /// Encapsula todo lo relativo a la gestión de la paleta de controles que forma
 /// parte de la interfaz de usuario. En estas prácticas se implementa mediante
@@ -44,6 +45,8 @@ public:
     void preRenderActions();
     void afterRenderActions();
     void prepareInterfaceObjects();
+    //Actualización items
+    void updateModelNamesCStr();
 
 private:
     /// Ventaja GLFW con la que trabaja esta interfaz de usuario. Es su ventana
@@ -52,6 +55,10 @@ private:
     /// Cadena para almacenar la versión de OpenGL / GLSL que se usará en las
     /// llamadas a funciones gráficas y para compilar los shaders.
     const char* glsl_version;
+
+    /// Vectores para obtener los items
+    std::vector<const char*> modelNamesCStr;
+    std::vector<std::string> modelNames = {"Spot", "Bob", "Blub"};
     
     /// Bandera que se usa para establecer si se quiere dibujar **ImGui** en
     /// modo oscuro (`true`) o claro (`false`)

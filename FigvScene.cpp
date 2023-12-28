@@ -15,9 +15,10 @@ FigvScene::FigvScene() {
     camera = new FigvCamera();
     models = std::vector<FigvModel>();
     
-    models.push_back(FigvModel("./spot/spot_triangulated.obj"));
-    models.push_back(FigvModel("./bob/bob_tri.obj"));
-    models.push_back(FigvModel("./blub/blub_triangulated.obj"));
+    
+    importModel("./spot/spot_triangulated.obj");
+    importModel("./bob/bob_tri.obj");
+    importModel("./blub/blub_triangulated.obj");
 }
 
 FigvScene::~FigvScene() = default;
@@ -45,6 +46,10 @@ void FigvScene::trackCamera(float rightOffset, float upOffset) {
 
 void FigvScene::zoomCamera(float deltaFovX) {
     FigvScene::getInstance()->camera->zoom(deltaFovX);
+}
+
+void FigvScene::importModel(const std::string& modelPath) {
+    models.push_back(FigvModel(modelPath));
 }
 
 void FigvScene::drawScene(FigvShader shader) {

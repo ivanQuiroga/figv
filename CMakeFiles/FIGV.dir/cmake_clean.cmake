@@ -35,6 +35,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/FIGV.dir/imgui/imgui_tables.cpp.obj.d"
   "CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.obj"
   "CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.obj.d"
+  "CMakeFiles/FIGV.dir/lib/ImGuiFileDialog/ImGuiFileDialog.cpp.obj"
+  "CMakeFiles/FIGV.dir/lib/ImGuiFileDialog/ImGuiFileDialog.cpp.obj.d"
   "CMakeFiles/FIGV.dir/main.cpp.obj"
   "CMakeFiles/FIGV.dir/main.cpp.obj.d"
   "FIGV.exe"

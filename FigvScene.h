@@ -46,6 +46,12 @@ public:
     /// @see FigvCamera::zoom()
     static void zoomCamera(float deltaFovX);
 
+    
+    /// Con este método, se pide a la cámara que se acerque mediante zoom
+    ///
+    /// @see FigvCamera::zoom()
+    void importModel(const std::string& modelPath);
+
     /// Este método es llamado por el FigRenderer cuando se debe dibujar la
     /// escena. El método pasa al shader los parámetros comunes (cámara, fuente
     /// luminosa, material) y pide al modelo 3D activo que se dibuje.

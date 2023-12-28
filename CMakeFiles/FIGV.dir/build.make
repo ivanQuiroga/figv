@@ -398,10 +398,30 @@ CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.s /c "C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\imgui_widgets.cpp"
 <<
 
+CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: CMakeFiles\FIGV.dir\flags.make
+CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialog.cpp
+CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FIGV.dir/lib/ImGuiFileDialog/ImGuiFileDialog.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj.d --working-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\lib\ImGuiFileDialog\ImGuiFileDialog.cpp"
+<<
+
+CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FIGV.dir/lib/ImGuiFileDialog/ImGuiFileDialog.cpp.i"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\Hostx64\x64\cl.exe > CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\lib\ImGuiFileDialog\ImGuiFileDialog.cpp"
+<<
+
+CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FIGV.dir/lib/ImGuiFileDialog/ImGuiFileDialog.cpp.s"
+	C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\Hostx64\x64\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.s /c "C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\lib\ImGuiFileDialog\ImGuiFileDialog.cpp"
+<<
+
 CMakeFiles\FIGV.dir\main.cpp.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\main.cpp.obj: main.cpp
 CMakeFiles\FIGV.dir\main.cpp.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FIGV.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/FIGV.dir/main.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\main.cpp.obj.d --working-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\main.cpp.obj /FdCMakeFiles\FIGV.dir\ /FS -c "C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\main.cpp"
 <<
@@ -421,7 +441,7 @@ CMakeFiles\FIGV.dir\main.cpp.s: cmake_force
 CMakeFiles\FIGV.dir\C_\usr\glad\src\glad.c.obj: CMakeFiles\FIGV.dir\flags.make
 CMakeFiles\FIGV.dir\C_\usr\glad\src\glad.c.obj: C:\usr\glad\src\glad.c
 CMakeFiles\FIGV.dir\C_\usr\glad\src\glad.c.obj: CMakeFiles\FIGV.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/FIGV.dir/C_/usr/glad/src/glad.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/FIGV.dir/C_/usr/glad/src/glad.c.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\FIGV.dir\C_\usr\glad\src\glad.c.obj.d --working-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV" --filter-prefix="Nota: inclusión del archivo: " -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\Hostx64\x64\cl.exe @<<
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /showIncludes /FoCMakeFiles\FIGV.dir\C_\usr\glad\src\glad.c.obj /FdCMakeFiles\FIGV.dir\ /FS -c C:\usr\glad\src\glad.c
 <<
@@ -457,6 +477,7 @@ FIGV_OBJECTS = \
 "CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj" \
 "CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj" \
 "CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj" \
+"CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj" \
 "CMakeFiles\FIGV.dir\main.cpp.obj" \
 "CMakeFiles\FIGV.dir\C_\usr\glad\src\glad.c.obj"
 
@@ -480,6 +501,7 @@ FIGV.exe: CMakeFiles\FIGV.dir\imgui\imgui_demo.cpp.obj
 FIGV.exe: CMakeFiles\FIGV.dir\imgui\imgui_draw.cpp.obj
 FIGV.exe: CMakeFiles\FIGV.dir\imgui\imgui_tables.cpp.obj
 FIGV.exe: CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj
+FIGV.exe: CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj
 FIGV.exe: CMakeFiles\FIGV.dir\main.cpp.obj
 FIGV.exe: CMakeFiles\FIGV.dir\C_\usr\glad\src\glad.c.obj
 FIGV.exe: CMakeFiles\FIGV.dir\build.make
@@ -487,7 +509,7 @@ FIGV.exe: C:\src\vcpkg\installed\x64-windows\debug\lib\glfw3dll.lib
 FIGV.exe: C:\src\vcpkg\installed\x64-windows\debug\lib\assimp-vc143-mtd.lib
 FIGV.exe: C:\src\vcpkg\installed\x64-windows\debug\lib\pugixml.lib
 FIGV.exe: CMakeFiles\FIGV.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable FIGV.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable FIGV.exe"
 	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\FIGV.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1438~1.331\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\FIGV.dir\objects1.rsp @<<
  /out:FIGV.exe /implib:FIGV.lib /pdb:"C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FIGV.pdb" /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console  opengl32.lib C:\src\vcpkg\installed\x64-windows\debug\lib\glfw3dll.lib C:\src\vcpkg\installed\x64-windows\debug\lib\assimp-vc143-mtd.lib C:\src\vcpkg\installed\x64-windows\debug\lib\pugixml.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

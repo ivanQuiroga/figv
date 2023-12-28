@@ -10,43 +10,23 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/src/vcpkg/installed/x64-windows/include/GL/gl.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/shared/winapifamily.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/shared/winpackagefamily.h
-C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvAuxiliaryFunctions.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/string
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/yvals_core.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xkeycheck.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xstring
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/iosfwd
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/yvals.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/crtdbg.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vcruntime_new_debug.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vcruntime_new.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/crtdefs.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/use_ansi.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstdio
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/stdio.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wstdio.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_stdio_config.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstring
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/lib/ImGuiFileDialog/ImGuiFileDialog.h
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/lib/ImGuiFileDialog/ImGuiFileDialogConfig.h
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imgui.h
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imconfig.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/float.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/stdarg.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/string.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_memory.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_memcpy_s.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/errno.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vcruntime_string.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wstring.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cwchar
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/wchar.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wconio.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wctype.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wdirect.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wio.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_share.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wprocess.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wstdlib.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wtime.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/stat.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/types.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xtr1common
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/assert.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/set
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/yvals_core.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xkeycheck.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xtree
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xmemory
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstdint
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstdlib
@@ -55,15 +35,37 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_math.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/stdlib.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_malloc.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_search.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wstdlib.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/limits.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/limits
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cfloat
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/float.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/climits
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cwchar
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstdio
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/stdio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wstdio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_stdio_config.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/wchar.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wconio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wctype.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wdirect.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wio.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_share.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wprocess.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wtime.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/stat.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/types.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xtr1common
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/intrin0.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/intrin0.inl.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/new
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/exception
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/yvals.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/crtdbg.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vcruntime_new_debug.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vcruntime_new.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/crtdefs.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/use_ansi.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/type_traits
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstddef
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/malloc.h
@@ -77,15 +79,75 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/initializer_list
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/concepts
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/compare
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstring
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/tuple
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xnode_handle.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xpolymorphic_allocator.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/map
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/list
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/regex
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/algorithm
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cctype
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/ctype.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/iterator
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/iosfwd
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/locale
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xlocbuf
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/streambuf
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xiosbase
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/share.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/system_error
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_system_error_abi.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cerrno
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/stdexcept
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xstring
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xcall_once.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xerrc.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/atomic
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xatomic_wait.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xthreads.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xtimec.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/ctime
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/time.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xlocale
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/memory
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/typeinfo
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vcruntime_typeinfo.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xfacet
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xlocinfo
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_xlocinfo_types.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/clocale
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/locale.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xlocmes
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xlocmon
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xlocnum
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cmath
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xloctime
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/string
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vector
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_bit_utils.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/array
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/mutex
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_chrono.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/ratio
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/thread
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/process.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_startup.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/math.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vcruntime_startup.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/stop_token
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/fstream
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_filebuf.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/istream
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/ostream
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/ios
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/functional
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/unordered_map
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xhash
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xbit_ops.h
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvAuxiliaryFunctions.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/backends/imgui_impl_opengl3.h
-C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imgui.h
-C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imconfig.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/stdarg.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/assert.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/backends/imgui_impl_glfw.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvScene.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvShader.h
@@ -115,7 +177,6 @@ C:/src/vcpkg/installed/x64-windows/include/glm/ext/../ext/scalar_uint_sized.hpp
 C:/src/vcpkg/installed/x64-windows/include/glm/ext/../detail/setup.hpp
 C:/src/vcpkg/installed/x64-windows/include/glm/glm.hpp
 C:/src/vcpkg/installed/x64-windows/include/glm/detail/_fixes.hpp
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cmath
 C:/src/vcpkg/installed/x64-windows/include/glm/detail/setup.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cassert
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/assert.h
@@ -255,8 +316,6 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/ammintrin.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvCamera.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvModel.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vector
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_bit_utils.hpp
 C:/src/vcpkg/installed/x64-windows/include/assimp/scene.h
 C:/src/vcpkg/installed/x64-windows/include/assimp/types.h
 C:/src/vcpkg/installed/x64-windows/include/assimp/defs.h
@@ -271,7 +330,6 @@ C:/src/vcpkg/installed/x64-windows/include/assimp/vector2.inl
 C:/src/vcpkg/installed/x64-windows/include/assimp/vector3.inl
 C:/src/vcpkg/installed/x64-windows/include/assimp/color4.inl
 C:/src/vcpkg/installed/x64-windows/include/assimp/matrix3x3.inl
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/algorithm
 C:/src/vcpkg/installed/x64-windows/include/assimp/matrix4x4.inl
 C:/src/vcpkg/installed/x64-windows/include/assimp/MathFunctions.h
 C:/src/vcpkg/installed/x64-windows/include/assimp/quaternion.inl
@@ -290,3 +348,21 @@ C:/src/vcpkg/installed/x64-windows/include/assimp/anim.h
 C:/src/vcpkg/installed/x64-windows/include/assimp/metadata.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvMesh.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvRenderer.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/filesystem
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/chrono
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xfilesystem_abi.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_tzdb.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/forward_list
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/optional
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xsmf_control.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/sstream
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/format
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_format_ucd_tables.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_print.hpp
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/bit
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/charconv
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xcharconv.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xcharconv_ryu.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xcharconv_ryu_tables.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xcharconv_tables.h
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/iomanip

@@ -8,6 +8,7 @@
 #include "imgui_impl_glfw.h"
 #include "FigvScene.h"
 #include "FigvRenderer.h"
+#include <filesystem>
 
 FigvUserInterface::FigvUserInterface(GLFWwindow* associatedWindow) {
     
@@ -75,12 +76,26 @@ void FigvUserInterface::prepareInterfaceObjects() {
 
 void FigvUserInterface::preparePalettes() {
 
-    const char* items[] = { "Spot", "Bob", "Blub" };
-
+    //const char* items[] = { "Spot", "Bob", "Blub" };
+    FigvUserInterface::updateModelNamesCStr();
     ImGui::Begin("Renderer properties");
     ImGui::ColorEdit3("Background", FigvRenderer::getInstance()->getBackgroundColor());
     ImGui::SeparatorText("Model");
-    ImGui::Combo("Model", FigvScene::getInstance()->getModelActive(), items, IM_ARRAYSIZE(items));
+    ImGui::Combo("Model", FigvScene::getInstance()->getModelActive(), modelNamesCStr.data(), modelNamesCStr.size());  
+    if (ImGui::Button("Import Model")) {
+        ImGui::SetNextWindowSize(ImVec2(700, 400));
+        ImGuiFileDialog::Instance()->OpenDialog("ChooseModelDlgKey", "Choose Model", ".obj", ".");
+    }
+    if (ImGuiFileDialog::Instance()->Display("ChooseModelDlgKey")) {
+        if (ImGuiFileDialog::Instance()->IsOk()) {
+            std::string modelPath = ImGuiFileDialog::Instance()->GetFilePathName();
+            FigvScene::getInstance()->importModel(modelPath);          
+            std::filesystem::path filePath(modelPath);
+            std::string modelName = filePath.stem().string();
+            modelNames.push_back(modelName);
+        }
+        ImGuiFileDialog::Instance()->Close();
+    }
     ImGui::SeparatorText("Material");
     ImGui::ColorEdit3("Kd", FigvScene::getInstance()->getKd());
     ImGui::ColorEdit3("Ks", FigvScene::getInstance()->getKs());
@@ -88,12 +103,18 @@ void FigvUserInterface::preparePalettes() {
     ImGui::SeparatorText("Light source");
     ImGui::ColorEdit3("Ia", FigvScene::getInstance()->getIa());
     ImGui::ColorEdit3("Id", FigvScene::getInstance()->getId());
-    ImGui::ColorEdit3("Is", FigvScene::getInstance()->getIs());
+    ImGui::ColorEdit3("Is", FigvScene::getInstance()->getIs()); 
     ImGui::End();
-
 // Si se descomenta la siguiente línea, se construye una segunda paleta en la
 // que se muestran todos los widgets que se pueden usar con ImGui. El código
 // que construye esos widgets se encuentra en el archivo: imgui_demo.cpp
     
 // ImGui::ShowDemoWindow();
+}
+
+void FigvUserInterface::updateModelNamesCStr() {
+    modelNamesCStr.clear();
+    for (const auto& name : modelNames) {
+        modelNamesCStr.push_back(name.c_str());
+    }
 }

@@ -5,13 +5,13 @@
 # compile CXX with C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe
 C_DEFINES = -DGLFW_DLL
 
-C_INCLUDES = -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui\backends -IC:\usr\glad\include -external:IC:\src\vcpkg\installed\x64-windows\include -external:W0
+C_INCLUDES = -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui\backends -IC:\usr\glad\include -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\lib\IMGUIF~1 -external:IC:\src\vcpkg\installed\x64-windows\include -external:W0
 
 C_FLAGS = /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd
 
 CXX_DEFINES = -DGLFW_DLL
 
-CXX_INCLUDES = -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui\backends -IC:\usr\glad\include -external:IC:\src\vcpkg\installed\x64-windows\include -external:W0
+CXX_INCLUDES = -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\imgui\backends -IC:\usr\glad\include -IC:\Users\UGR\ONEDRI~1\DOCUME~1\OpenGL\FIGV\FIGV-App\FIGV\lib\IMGUIF~1 -external:IC:\src\vcpkg\installed\x64-windows\include -external:W0
 
 CXX_FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
 

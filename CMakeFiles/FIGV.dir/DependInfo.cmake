@@ -26,6 +26,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imgui_draw.cpp" "CMakeFiles/FIGV.dir/imgui/imgui_draw.cpp.obj" "msvc" "CMakeFiles/FIGV.dir/imgui/imgui_draw.cpp.obj.d"
   "C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imgui_tables.cpp" "CMakeFiles/FIGV.dir/imgui/imgui_tables.cpp.obj" "msvc" "CMakeFiles/FIGV.dir/imgui/imgui_tables.cpp.obj.d"
   "C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imgui_widgets.cpp" "CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.obj" "msvc" "CMakeFiles/FIGV.dir/imgui/imgui_widgets.cpp.obj.d"
+  "C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/lib/ImGuiFileDialog/ImGuiFileDialog.cpp" "CMakeFiles/FIGV.dir/lib/ImGuiFileDialog/ImGuiFileDialog.cpp.obj" "msvc" "CMakeFiles/FIGV.dir/lib/ImGuiFileDialog/ImGuiFileDialog.cpp.obj.d"
   "C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/main.cpp" "CMakeFiles/FIGV.dir/main.cpp.obj" "msvc" "CMakeFiles/FIGV.dir/main.cpp.obj.d"
   )
 
