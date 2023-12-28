@@ -51,7 +51,8 @@ void FigvEventManager::processCursorPosition(double xPos, double yPos) {
 
 //MOVIMIENTO KEY CALL BACK
 void FigvEventManager::processKeyClick(GLFWwindow* window, int key, int scancode, int action, int mods) {
-    float trackSpeed = 1.0f;
+    const float trackSpeed = 1.0f;
+    const float zoomIntensity = 5.0f; 
     if (action == GLFW_PRESS || action == GLFW_REPEAT) {
         switch (key) {
             case GLFW_KEY_UP:
@@ -65,6 +66,12 @@ void FigvEventManager::processKeyClick(GLFWwindow* window, int key, int scancode
                 break;
             case GLFW_KEY_RIGHT:
                 FigvScene::trackCamera(0.0f, -trackSpeed); // Mover hacia abajo
+                break;
+            case GLFW_KEY_1: // Tecla 1
+                FigvScene::zoomCamera(-zoomIntensity); // Reducir FOV para hacer zoom in
+                break;
+            case GLFW_KEY_2: // Tecla 2
+                FigvScene::zoomCamera(zoomIntensity); // Aumentar FOV para hacer zoom out
                 break;
         }
     }

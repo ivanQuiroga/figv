@@ -41,6 +41,10 @@ public:
     ///
     /// @see FigvCamera::track()
     static void trackCamera(float rightOffset, float upOffset);
+    /// Con este método, se pide a la cámara que se acerque mediante zoom
+    ///
+    /// @see FigvCamera::zoom()
+    static void zoomCamera(float deltaFovX);
 
     /// Este método es llamado por el FigRenderer cuando se debe dibujar la
     /// escena. El método pasa al shader los parámetros comunes (cámara, fuente

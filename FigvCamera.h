@@ -46,6 +46,9 @@ public:
 
     /// Función para el movimiento de cámara Track y desplazar mediante keycall
     void track(float rightOffset, float upOffset);
+    
+    /// Función para el movimiento de cámara Track y desplazar mediante teclas '+' y '-'
+    void zoom(float deltaFovX);
 
     /// Accede a las matrices de visión y proyección, ya multiplicadas y listas
     /// para aplicar a los vértices de la escena.

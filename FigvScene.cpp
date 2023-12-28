@@ -38,10 +38,13 @@ void FigvScene::dollyCamera(float distance) {
     FigvScene::getInstance()->camera->dolly(distance);
 }
 
-
 void FigvScene::trackCamera(float rightOffset, float upOffset) {
 
     FigvScene::getInstance()->camera->track(rightOffset, upOffset);
+}
+
+void FigvScene::zoomCamera(float deltaFovX) {
+    FigvScene::getInstance()->camera->zoom(deltaFovX);
 }
 
 void FigvScene::drawScene(FigvShader shader) {
