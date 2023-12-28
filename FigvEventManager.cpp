@@ -67,10 +67,10 @@ void FigvEventManager::processKeyClick(GLFWwindow* window, int key, int scancode
             case GLFW_KEY_RIGHT:
                 FigvScene::trackCamera(0.0f, -trackSpeed); // Mover hacia abajo
                 break;
-            case GLFW_KEY_1: // Tecla 1
+            case GLFW_KEY_2: 
                 FigvScene::zoomCamera(-zoomIntensity); // Reducir FOV para hacer zoom in
                 break;
-            case GLFW_KEY_2: // Tecla 2
+            case GLFW_KEY_1:
                 FigvScene::zoomCamera(zoomIntensity); // Aumentar FOV para hacer zoom out
                 break;
         }

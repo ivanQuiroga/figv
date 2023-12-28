@@ -92,13 +92,9 @@ void FigvCamera::track(float rightOffset, float upOffset) {
 
 //Función para el Zoom 
 void FigvCamera::zoom(float deltaFovX) {
-        fovX += deltaFovX;
-        fovX = std::max(1.0f, std::min(fovX, 179.0f)); // Limita el fovX entre 1 y 179 grados
-
-        // Actualiza la matriz de proyección aquí
-        // Por ejemplo, si estás utilizando OpenGL, algo como esto:
-        // projectionMatrix = glm::perspective(glm::radians(fovX), aspectRatio, nearPlane, farPlane);
-    }
+    fovX += deltaFovX;
+    fovX = glm::max(1.0f, glm::min(fovX, 179.0f)); // Limita el fovX entre 1 y 179 grados
+}
 
 glm::mat4 FigvCamera::getViewProjectionMatrix() {
 
