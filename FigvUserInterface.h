@@ -8,7 +8,7 @@
 #define FIGV_PRUEBA_1_IMGUI_FIGVUSERINTERFACE_H
 
 #include <GLFW/glfw3.h>
-#include "lib/ImGuiFileDialog/ImGuiFileDialog.h"
+#include "ImGuiFileDialog/ImGuiFileDialog.h"
 
 /// Encapsula todo lo relativo a la gestión de la paleta de controles que forma
 /// parte de la interfaz de usuario. En estas prácticas se implementa mediante

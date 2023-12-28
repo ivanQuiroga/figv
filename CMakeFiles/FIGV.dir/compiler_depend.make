@@ -2197,8 +2197,8 @@ CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files\Microsoft Visua
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GL\gl.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winapifamily.h"
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winpackagefamily.h"
-CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialog.h
-CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialogConfig.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: ImGuiFileDialog\ImGuiFileDialog.h
+CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: ImGuiFileDialog\ImGuiFileDialogConfig.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: imgui\imgui.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: imgui\imconfig.h
 CMakeFiles\FIGV.dir\FigvUserInterface.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\float.h"
@@ -3578,277 +3578,6 @@ CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: "C:\Program Files\Microsoft Vis
 CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.obj: imgui\imstb_textedit.h
 
 
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialog.cpp
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialog.h
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialogConfig.h
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: imgui\imgui.h
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: imgui\imconfig.h
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\float.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vcruntime.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sal.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\concurrencysal.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vadefs.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdarg.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stddef.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\string.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_memory.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_memcpy_s.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\errno.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vcruntime_string.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstring.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\assert.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\set"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\yvals_core.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xkeycheck.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtree"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdint"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdint.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdlib"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\math.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_math.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stdlib.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_malloc.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_search.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstdlib.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\limits.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\limits"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cfloat"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\climits"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cwchar"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdio"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stdio.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstdio.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_stdio_config.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\wchar.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wconio.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wctype.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wdirect.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wio.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_share.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wprocess.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wtime.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\sys\stat.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\sys\types.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtr1common"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\intrin0.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\intrin0.inl.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\new"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\exception"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\yvals.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\crtdbg.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vcruntime_new_debug.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vcruntime_new.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\crtdefs.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\use_ansi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\type_traits"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstddef"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\malloc.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vcruntime_exception.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\eh.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_terminate.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xatomic.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_iter_core.hpp"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\utility"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\initializer_list"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\concepts"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\compare"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstring"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\tuple"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xnode_handle.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xpolymorphic_allocator.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\map"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\list"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\regex"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\algorithm"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cctype"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\ctype.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iterator"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iosfwd"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\locale"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xlocbuf"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\streambuf"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xiosbase"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\share.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\system_error"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_system_error_abi.hpp"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cerrno"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdexcept"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_sanitizer_annotate_container.hpp"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xcall_once.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xerrc.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\atomic"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xatomic_wait.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xthreads.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtimec.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ctime"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\time.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xlocale"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\memory"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\typeinfo"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vcruntime_typeinfo.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xfacet"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xlocinfo"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_xlocinfo_types.hpp"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\clocale"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\locale.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xlocmes"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xlocmon"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xlocnum"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cmath"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xloctime"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_bit_utils.hpp"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\array"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\mutex"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_chrono.hpp"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ratio"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\thread"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\process.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_startup.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\math.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vcruntime_startup.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stop_token"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\fstream"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_filebuf.hpp"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ios"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\functional"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\unordered_map"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xhash"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xbit_ops.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdarg"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sstream"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iomanip"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: lib\ImGuiFileDialog\dirent\dirent.h
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\windows.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winapifamily.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winpackagefamily.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\sdkddkver.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\excpt.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\windef.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\minwindef.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\specstrings.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\specstrings_strict.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\specstrings_undef.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\driverspecs.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\sdv_driverspecs.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnt.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\kernelspecs.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\basetsd.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\guiddef.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack8.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack1.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack1.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\apiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\ktmtypes.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winbase.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\apisetcconv.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\minwinbase.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\apiquery2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\processenv.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\fileapifromapp.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\fileapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\debugapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\utilapiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\handleapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\errhandlingapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\fibersapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\namedpipeapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\profileapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\heapapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\ioapiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\synchapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\interlockedapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\processthreadsapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\sysinfoapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\memoryapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\enclaveapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\threadpoollegacyapiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\threadpoolapiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\jobapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\jobapi2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wow64apiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\libloaderapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\securitybaseapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\namespaceapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\systemtopologyapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\processtopologyapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\securityappcontainer.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\realtimeapiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winerror.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\timezoneapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wingdi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack1.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack4.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winuser.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\pshpack2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\poppack.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\tvout.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnls.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\datetimeapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\stringapiset.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnls.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wincon.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\wincontypes.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\consoleapi.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\consoleapi2.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\consoleapi3.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winver.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\verrsrc.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winreg.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\reason.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winnetwk.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\wnnc.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\stralign.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\winsvc.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\mcx.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\imm.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um\ime_cmodes.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: imgui\imgui_internal.h
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\math.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\immintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\wmmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\nmmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\smmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\tmmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\pmmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\emmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\mmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\zmmintrin.h"
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: imgui\imstb_textedit.h
-CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream"
-
-
 CMakeFiles\FIGV.dir\main.cpp.obj: main.cpp
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvWindowSystem.h
 CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\GLFW\glfw3.h
@@ -4136,8 +3865,8 @@ CMakeFiles\FIGV.dir\main.cpp.obj: C:\src\vcpkg\installed\x64-windows\include\ass
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvMesh.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvAuxiliaryFunctions.h
 CMakeFiles\FIGV.dir\main.cpp.obj: FigvUserInterface.h
-CMakeFiles\FIGV.dir\main.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialog.h
-CMakeFiles\FIGV.dir\main.cpp.obj: lib\ImGuiFileDialog\ImGuiFileDialogConfig.h
+CMakeFiles\FIGV.dir\main.cpp.obj: ImGuiFileDialog\ImGuiFileDialog.h
+CMakeFiles\FIGV.dir\main.cpp.obj: ImGuiFileDialog\ImGuiFileDialogConfig.h
 CMakeFiles\FIGV.dir\main.cpp.obj: imgui\imgui.h
 CMakeFiles\FIGV.dir\main.cpp.obj: imgui\imconfig.h
 CMakeFiles\FIGV.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\stdarg.h"
@@ -4905,6 +4634,8 @@ C:\src\vcpkg\installed\x64-windows\include\glm\gtc\..\ext\quaternion_common.hpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtimec.h":
 
+ImGuiFileDialog\ImGuiFileDialog.h:
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ctime":
 
 FigvCamera.cpp:
@@ -5295,9 +5026,7 @@ FigvShader.cpp:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\sstream":
 
-lib\ImGuiFileDialog\ImGuiFileDialog.h:
-
-lib\ImGuiFileDialog\ImGuiFileDialogConfig.h:
+ImGuiFileDialog\ImGuiFileDialogConfig.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xtree":
 
@@ -5368,11 +5097,5 @@ imgui\imstb_textedit.h:
 imgui\imgui_tables.cpp:
 
 imgui\imgui_widgets.cpp:
-
-lib\ImGuiFileDialog\ImGuiFileDialog.cpp:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\cstdarg":
-
-lib\ImGuiFileDialog\dirent\dirent.h:
 
 main.cpp:

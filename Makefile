@@ -382,6 +382,30 @@ FigvWindowSystem.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\FigvWindowSystem.cpp.s
 .PHONY : FigvWindowSystem.cpp.s
 
+ImGuiFileDialog\ImGuiFileDialog.obj: ImGuiFileDialog\ImGuiFileDialog.cpp.obj
+.PHONY : ImGuiFileDialog\ImGuiFileDialog.obj
+
+# target to build an object file
+ImGuiFileDialog\ImGuiFileDialog.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\ImGuiFileDialog\ImGuiFileDialog.cpp.obj
+.PHONY : ImGuiFileDialog\ImGuiFileDialog.cpp.obj
+
+ImGuiFileDialog\ImGuiFileDialog.i: ImGuiFileDialog\ImGuiFileDialog.cpp.i
+.PHONY : ImGuiFileDialog\ImGuiFileDialog.i
+
+# target to preprocess a source file
+ImGuiFileDialog\ImGuiFileDialog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\ImGuiFileDialog\ImGuiFileDialog.cpp.i
+.PHONY : ImGuiFileDialog\ImGuiFileDialog.cpp.i
+
+ImGuiFileDialog\ImGuiFileDialog.s: ImGuiFileDialog\ImGuiFileDialog.cpp.s
+.PHONY : ImGuiFileDialog\ImGuiFileDialog.s
+
+# target to generate assembly for a file
+ImGuiFileDialog\ImGuiFileDialog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\ImGuiFileDialog\ImGuiFileDialog.cpp.s
+.PHONY : ImGuiFileDialog\ImGuiFileDialog.cpp.s
+
 imgui\backends\imgui_impl_glfw.obj: imgui\backends\imgui_impl_glfw.cpp.obj
 .PHONY : imgui\backends\imgui_impl_glfw.obj
 
@@ -550,30 +574,6 @@ imgui\imgui_widgets.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\imgui\imgui_widgets.cpp.s
 .PHONY : imgui\imgui_widgets.cpp.s
 
-lib\ImGuiFileDialog\ImGuiFileDialog.obj: lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj
-.PHONY : lib\ImGuiFileDialog\ImGuiFileDialog.obj
-
-# target to build an object file
-lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj
-.PHONY : lib\ImGuiFileDialog\ImGuiFileDialog.cpp.obj
-
-lib\ImGuiFileDialog\ImGuiFileDialog.i: lib\ImGuiFileDialog\ImGuiFileDialog.cpp.i
-.PHONY : lib\ImGuiFileDialog\ImGuiFileDialog.i
-
-# target to preprocess a source file
-lib\ImGuiFileDialog\ImGuiFileDialog.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.i
-.PHONY : lib\ImGuiFileDialog\ImGuiFileDialog.cpp.i
-
-lib\ImGuiFileDialog\ImGuiFileDialog.s: lib\ImGuiFileDialog\ImGuiFileDialog.cpp.s
-.PHONY : lib\ImGuiFileDialog\ImGuiFileDialog.s
-
-# target to generate assembly for a file
-lib\ImGuiFileDialog\ImGuiFileDialog.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FIGV.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\FIGV.dir\lib\ImGuiFileDialog\ImGuiFileDialog.cpp.s
-.PHONY : lib\ImGuiFileDialog\ImGuiFileDialog.cpp.s
-
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -640,6 +640,9 @@ help:
 	@echo ... FigvWindowSystem.obj
 	@echo ... FigvWindowSystem.i
 	@echo ... FigvWindowSystem.s
+	@echo ... ImGuiFileDialog/ImGuiFileDialog.obj
+	@echo ... ImGuiFileDialog/ImGuiFileDialog.i
+	@echo ... ImGuiFileDialog/ImGuiFileDialog.s
 	@echo ... imgui/backends/imgui_impl_glfw.obj
 	@echo ... imgui/backends/imgui_impl_glfw.i
 	@echo ... imgui/backends/imgui_impl_glfw.s
@@ -661,9 +664,6 @@ help:
 	@echo ... imgui/imgui_widgets.obj
 	@echo ... imgui/imgui_widgets.i
 	@echo ... imgui/imgui_widgets.s
-	@echo ... lib/ImGuiFileDialog/ImGuiFileDialog.obj
-	@echo ... lib/ImGuiFileDialog/ImGuiFileDialog.i
-	@echo ... lib/ImGuiFileDialog/ImGuiFileDialog.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

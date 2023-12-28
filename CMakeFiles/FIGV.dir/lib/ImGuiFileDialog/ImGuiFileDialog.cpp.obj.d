@@ -1,5 +1,5 @@
-C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/lib/ImGuiFileDialog/ImGuiFileDialog.h
-C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/lib/ImGuiFileDialog/ImGuiFileDialogConfig.h
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/ImGuiFileDialog/ImGuiFileDialog.h
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/ImGuiFileDialog/ImGuiFileDialogConfig.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imgui.h
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/imgui/imconfig.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/float.h
@@ -144,7 +144,7 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cstdarg
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/sstream
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/iomanip
-C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/lib/ImGuiFileDialog/dirent/dirent.h
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/ImGuiFileDialog/dirent/dirent.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/um/windows.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/shared/winapifamily.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/shared/winpackagefamily.h
