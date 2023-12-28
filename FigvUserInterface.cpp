@@ -81,7 +81,6 @@ void FigvUserInterface::preparePalettes() {
     ImGui::Begin("Renderer properties");
     ImGui::ColorEdit3("Background", FigvRenderer::getInstance()->getBackgroundColor());
     ImGui::SeparatorText("Model");
-    ImGui::Combo("Model", FigvScene::getInstance()->getModelActive(), modelNamesCStr.data(), modelNamesCStr.size());  
     if (ImGui::Button("Import Model")) {
         ImGui::SetNextWindowSize(ImVec2(700, 400));
         ImGuiFileDialog::Instance()->OpenDialog("ChooseModelDlgKey", "Choose Model", ".obj", ".");
@@ -93,9 +92,11 @@ void FigvUserInterface::preparePalettes() {
             std::filesystem::path filePath(modelPath);
             std::string modelName = filePath.stem().string();
             modelNames.push_back(modelName);
+            *FigvScene::getInstance()->getModelActive() = static_cast<int>(modelNames.size()) - 1;
         }
         ImGuiFileDialog::Instance()->Close();
     }
+    ImGui::Combo("Model", FigvScene::getInstance()->getModelActive(), modelNamesCStr.data(), modelNamesCStr.size());  
     ImGui::SeparatorText("Material");
     ImGui::ColorEdit3("Kd", FigvScene::getInstance()->getKd());
     ImGui::ColorEdit3("Ks", FigvScene::getInstance()->getKs());
