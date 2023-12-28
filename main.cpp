@@ -28,9 +28,9 @@ void framebufferSizeCallback(GLFWwindow* window, int width, int height) {
     FigvScene::setFrameSize(width, height);
 }
 
-//MOVIMIENTO MOUSE
+//MOVIMIENTO KEY CALL BACK
 void keyCallback(GLFWwindow* window, int key, int scancode, int action, int mods) {
-    //FigvEventManager::getInstance()->processMouseClics(window, button, action, mods);
+    FigvEventManager::getInstance()->processKeyClick(window, key, scancode, action, mods);
 }
 
 /// @file
@@ -59,6 +59,7 @@ int main() {
     glfwSetMouseButtonCallback(windowSystem->getAppWindow(), mouseButtonCallback);
     glfwSetCursorPosCallback(windowSystem->getAppWindow(), cursorPosCallback);
     glfwSetFramebufferSizeCallback(windowSystem->getAppWindow(), framebufferSizeCallback);
+    // PARA OBTENER KEYCALLBACK
     glfwSetKeyCallback(windowSystem->getAppWindow(), keyCallback);
 
     // - El segundo paso es iniciar el ciclo de eventos. Los eventos de la

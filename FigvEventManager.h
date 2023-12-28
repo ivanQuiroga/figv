@@ -29,6 +29,8 @@ public:
     void processMouseScroll(double yDisplacement);
     /// Gestiona los movimientos del ratón.
     void processCursorPosition(double xPos, double yPos);
+    /// Gestiona los movimientos del teclado
+    void processKeyClick(GLFWwindow* window, int key, int scancode, int action, int mods);
 
 private:
     /// El constructor es privado para impedir que pueda invocarse para construir

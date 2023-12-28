@@ -76,7 +76,6 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wproces
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wtime.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/stat.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/types.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/isa_availability.h
 C:/src/vcpkg/installed/x64-windows/include/glm/detail/type_vec1.hpp
 C:/src/vcpkg/installed/x64-windows/include/glm/detail/type_vec1.inl
 C:/src/vcpkg/installed/x64-windows/include/glm/detail/./compute_vector_relational.hpp
@@ -241,6 +240,7 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvAuxiliaryFunctions.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/string
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xstring
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/iosfwd
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xmemory
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/new
@@ -251,6 +251,5 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_termina
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xatomic.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/tuple
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xpolymorphic_allocator.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cctype
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/ctype.h

@@ -37,6 +37,10 @@ public:
     ///
     /// @see FigvCamera::dolly()
     static void dollyCamera(float distance);
+    /// Con este método, se pide a la cámara que se mueva
+    ///
+    /// @see FigvCamera::track()
+    static void trackCamera(float rightOffset, float upOffset);
 
     /// Este método es llamado por el FigRenderer cuando se debe dibujar la
     /// escena. El método pasa al shader los parámetros comunes (cámara, fuente

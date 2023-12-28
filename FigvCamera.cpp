@@ -79,7 +79,7 @@ void FigvCamera::dolly(float distance) {
     position += V;
 }
 
-// Función para el movimiento de cámara Track
+// Función para el movimiento de cámara Track y desplazar mediante keycall
 void FigvCamera::track(float rightOffset, float upOffset) {
     // Calcular el desplazamiento en cada dirección
     glm::vec3 rightMovement = vV * rightOffset; // vV es el vector Right

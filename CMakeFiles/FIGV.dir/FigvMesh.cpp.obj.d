@@ -48,7 +48,6 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wstring
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wtime.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/stat.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/sys/types.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/isa_availability.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/intrin0.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/intrin0.inl.h
 C:/src/vcpkg/installed/x64-windows/include/glm/./ext/vector_bool3_precision.hpp
@@ -66,6 +65,7 @@ C:/src/vcpkg/installed/x64-windows/include/glm/ext/../ext/scalar_uint_sized.hpp
 C:/src/vcpkg/installed/x64-windows/include/glm/ext/../detail/setup.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/string
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xstring
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/iosfwd
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/yvals.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/crtdbg.h
@@ -98,7 +98,6 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/compare
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/tuple
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xpolymorphic_allocator.h
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/cctype
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/ctype.h
 C:/src/vcpkg/installed/x64-windows/include/glm/vec2.hpp
@@ -115,6 +114,7 @@ C:/src/vcpkg/installed/x64-windows/include/glm/./ext/vector_int2_sized.hpp
 C:/src/vcpkg/installed/x64-windows/include/glm/./ext/vector_uint2.hpp
 C:/src/vcpkg/installed/x64-windows/include/glm/./ext/vector_uint2_sized.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vector
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_bit_utils.hpp
 C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/FigvAuxiliaryFunctions.h
 C:/usr/glad/include/glad/glad.h
 C:/usr/glad/include/KHR/khrplatform.h

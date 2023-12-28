@@ -44,7 +44,7 @@ public:
     ///        camara. Positivo acerca y negativo aleja.
     void dolly(float distance);
 
-    /// Implementación track
+    /// Función para el movimiento de cámara Track y desplazar mediante keycall
     void track(float rightOffset, float upOffset);
 
     /// Accede a las matrices de visión y proyección, ya multiplicadas y listas

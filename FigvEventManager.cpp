@@ -32,7 +32,6 @@ void FigvEventManager::processMouseClics(GLFWwindow* window, int button, int act
 }
 
 void FigvEventManager::processMouseScroll(double yDisplacement) {
-
     FigvScene::dollyCamera(float(yDisplacement));
 }
 
@@ -46,5 +45,27 @@ void FigvEventManager::processCursorPosition(double xPos, double yPos) {
         lastY = yPos;
 
         FigvScene::orbitCamera(float(-xOffset), float(-yOffset));
+    }
+}
+
+
+//MOVIMIENTO KEY CALL BACK
+void FigvEventManager::processKeyClick(GLFWwindow* window, int key, int scancode, int action, int mods) {
+    float trackSpeed = 1.0f;
+    if (action == GLFW_PRESS || action == GLFW_REPEAT) {
+        switch (key) {
+            case GLFW_KEY_UP:
+                FigvScene::trackCamera(-trackSpeed, 0.0f); // Mover hacia la izquierda
+                break;
+            case GLFW_KEY_DOWN:
+                FigvScene::trackCamera(trackSpeed, 0.0f); // Mover hacia la derecha
+                break;
+            case GLFW_KEY_LEFT:
+                FigvScene::trackCamera(0.0f, trackSpeed); // Mover hacia arriba
+                break;
+            case GLFW_KEY_RIGHT:
+                FigvScene::trackCamera(0.0f, -trackSpeed); // Mover hacia abajo
+                break;
+        }
     }
 }
