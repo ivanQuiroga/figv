@@ -56,16 +56,16 @@ void FigvEventManager::processKeyClick(GLFWwindow* window, int key, int scancode
     if (action == GLFW_PRESS || action == GLFW_REPEAT) {
         switch (key) {
             case GLFW_KEY_UP:
-                FigvScene::trackCamera(-trackSpeed, 0.0f); // Mover hacia la izquierda
+                FigvScene::trackCamera(-trackSpeed, 0.0f); // Mover hacia arriba
                 break;
             case GLFW_KEY_DOWN:
-                FigvScene::trackCamera(trackSpeed, 0.0f); // Mover hacia la derecha
+                FigvScene::trackCamera(trackSpeed, 0.0f); // Mover hacia abajo
                 break;
             case GLFW_KEY_LEFT:
-                FigvScene::trackCamera(0.0f, trackSpeed); // Mover hacia arriba
+                FigvScene::trackCamera(0.0f, trackSpeed); // Mover hacia la derecha
                 break;
             case GLFW_KEY_RIGHT:
-                FigvScene::trackCamera(0.0f, -trackSpeed); // Mover hacia abajo
+                FigvScene::trackCamera(0.0f, -trackSpeed); // Mover hacia la izquierda
                 break;
             case GLFW_KEY_2: 
                 FigvScene::zoomCamera(-zoomIntensity); // Reducir FOV para hacer zoom in

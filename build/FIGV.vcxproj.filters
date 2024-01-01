@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvAuxiliaryFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvEventManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvShader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvUserInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\FigvWindowSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\ImGuiFileDialog\ImGuiFileDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\backends\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\backends\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\usr\glad\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\UGR\OneDrive - UNIVERSIDAD DE GRANADA\Documentos\OpenGL\FIGV\FIGV-App\FIGV\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6B9571EF-B796-385C-AD9E-BF7F366EC5DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

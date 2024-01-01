@@ -6,7 +6,7 @@ project(${PROJECT_NAME})
 
 set(CMAKE_CXX_STANDARD 20)
 
-file( GLOB SOURCE_FILES *.cpp *.c imgui/*.cpp imgui/backends/imgui_impl_opengl3.cpp imgui/backends/imgui_impl_glfw.cpp C:/usr/glad/src/*.c ImGuiFileDialog/ImGuiFileDialog.cpp)
+file( GLOB SOURCE_FILES *.cpp *.c imgui/*.cpp imgui/backends/imgui_impl_opengl3.cpp imgui/backends/imgui_impl_glfw.cpp C:/usr/glad/src/*.c ImGuiFileDialog/ImGuiFileDialog.cpp )
 
 find_package(OpenGL REQUIRED)
 find_package(glfw3 REQUIRED)
@@ -14,7 +14,7 @@ find_package(assimp REQUIRED)
 
 add_executable( ${PROJECT_NAME} ${SOURCE_FILES} )
 
-include_directories(imgui imgui/backends C:/src/vcpkg/installed/x64-windows/include C:/usr/glad/include ImGuiFileDialog)
+include_directories(imgui imgui/backends C:/src/vcpkg/installed/x64-windows/include C:/usr/glad/include ImGuiFileDialog )
 link_directories( C:/src/vcpkg/installed/x64-windows/lib )
 target_link_libraries( ${PROJECT_NAME} OpenGL::GL glfw assimp::assimp )
 

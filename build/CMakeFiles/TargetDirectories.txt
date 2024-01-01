@@ -1,0 +1,3 @@
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/build/CMakeFiles/FIGV.dir
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/UGR/OneDrive - UNIVERSIDAD DE GRANADA/Documentos/OpenGL/FIGV/FIGV-App/FIGV/build/CMakeFiles/ZERO_CHECK.dir
